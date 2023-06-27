@@ -1,0 +1,14 @@
+balance
+100
+sale
+cup
+5
+2
+purchase
+spoon
+10
+1
+warehouse
+cup
+list
+end
